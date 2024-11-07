@@ -30,7 +30,5 @@ public class RegisterTests extends BaseTest {
                     .registerClick();
 
         homePage.registerControl("Welcome " + username);
-
     }
-
 }
